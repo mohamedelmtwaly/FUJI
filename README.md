@@ -6,7 +6,7 @@ Built with **React.js** and designed to provide a clean, responsive, and user-fr
 ---
 
 ## 🌐 Live Demo
-🔗fuji-iota.vercel.app
+fuji-iota.vercel.app
 
 
 ---
@@ -47,5 +47,5 @@ Built with **React.js** and designed to provide a clean, responsive, and user-fr
 
 Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/USERNAME/REPO.git](https://github.com/mohamedelmtwaly/FUJI.git
 cd REPO

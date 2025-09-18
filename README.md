@@ -6,7 +6,7 @@ Built with **React.js** and designed to provide a clean, responsive, and user-fr
 ---
 
 ## 🌐 Live Demo
-🔗 [View Project Here](fuji-iota.vercel.app)  
+🔗fuji-iota.vercel.app
 
 
 ---
@@ -17,10 +17,13 @@ Built with **React.js** and designed to provide a clean, responsive, and user-fr
 ![Homepage Screenshot](./screens/home.png)
 
 ### Product Page
-![Product Screenshot](assets/screenshots/product.png)
+![Product Screenshot](./screens/product.png)
+![Product Screenshot](./screens/eleavtor types.png)
 
 ### Shopping Cart & Checkout
-![Cart Screenshot](assets/screenshots/cart.png)
+![Cart Screenshot](./screens/shoping.png)
+![Cart Screenshot](./screens/cart.png)
+![Cart Screenshot](./screens/cjheckout.png)
 
 ---
 
